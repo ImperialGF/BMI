@@ -1,21 +1,21 @@
 # BMI Calculator
-A simple programm on Python to calculate your BMI
+Простая Python программа для расчета вашего BMI (индекса массы тела)
 
-# Installation
-1. Download and install Python 3.13 (https://www.python.org/downloads)
-2. Clone project to your PC
+# Установка
+1. Скачать и установить Python 3.13 (https://www.python.org/downloads)
+2. Клонируйте репозиторий
 ```python
 git clone https://github.com/ImperialGF/BMI.git
 cd BMI
 ```
 
-# Launch
-Run the program through the terminal
+# Запуск
+Запустите программу через терминал
 ```python
 python main.py
 ```
 
-# Example
+# Пример
 ```python
 Введите ваш рост (в метрах): 1.75
 Введите ваш вес (в кг): 70
