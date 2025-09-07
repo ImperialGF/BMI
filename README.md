@@ -12,7 +12,7 @@ cd BMI
 # Запуск
 Запустите программу через терминал
 ```python
-python main.py
+python BMI.py
 ```
 
 # Пример
